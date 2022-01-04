@@ -15,3 +15,5 @@ es necesario descargarse este repositorio e importarlo a un IDE de programación
 ### ✒️ Autores ✒️
 
 * [Kevin Arnaiz] (https://github.com/kevin31000)
+* [Asier Goirigolzarri] (https://github.com/AsierGoiri)
+* [Sergio Cogollos] (https://github.com/SergioCo99)
