@@ -21,6 +21,11 @@ que el actual para la sociedad, ya que elimina algunos de los problemas que se p
 hoy en día.
 
 ## 📋 Pre-requisitos 📋
+* Python 3
+* Raspberry Pi con Linux
+* Grove - Temperature and Humidity Sensor(DHT11)
+* Grove - Ultrasonic Ranger
+* RFID sensor (mfrc522)
 
 ## 🚀 Comenzando 🚀
 Para obtener una copia local del proyecto en funcionamiento para propósitos de desarrollo y pruebas 
@@ -29,6 +34,7 @@ es necesario descargarse este repositorio e importarlo a un IDE de programación
 ## 🔧 Instalación y ejecución 🔧
 
 ### 🛠️ Herramientas utilizadas 🛠️
+*Raspberry
 
 ### ✒️ Autores ✒️
 
