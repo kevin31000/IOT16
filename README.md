@@ -36,7 +36,7 @@ Para clonar el proyecto usaremos el enlace de este repositorio, y usaremos el si
 ```
 git clone https://github.com/kevin31000/IOT16 
 ````
-Para poder ejecutarlo, abriremos accederemos al proyecto mediante la Raspberry Pi.
+Para poder ejecutarlo, entramos a la carpeta que contiene el proyecto mediante la Raspberry Pi.
 ```
 cd IOT16 
 ````
@@ -44,7 +44,7 @@ Instalamos las dependencias necesarias para ejecutar de manera satisfactoria el 
 ```
 pip install -r requirements.txt 
 ````
-Y ejecutaremos siguiente comando, que hace referencia al archivo Python que contiene el código necesario para el correcto funcionamiento del sistema.
+Y ejecutamos el siguiente comando, que hace referencia al archivo Python que contiene el código necesario para el correcto funcionamiento del sistema.
 ```
 python3 Main.py
 ````
