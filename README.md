@@ -32,7 +32,22 @@ Para obtener una copia local del proyecto en funcionamiento para propósitos de 
 es necesario descargarse este repositorio e importarlo a un IDE de programación compatible con los requisitos previamente nombrados.
 
 ## 🔧 Instalación y ejecución 🔧
-
+Para clonar el proyecto usaremos el enlace de este repositorio, y usaremos el siguiente comando.
+```
+git clone https://github.com/kevin31000/IOT16 
+````
+Para poder ejecutarlo, abriremos accederemos al proyecto mediante la Raspberry Pi.
+```
+cd IOT16 
+````
+Instalamos las dependencias necesarias para ejecutar de manera satisfactoria el proyecto.
+```
+pip install -r requirements.txt 
+````
+Y ejecutaremos siguiente comando, que hace referencia al archivo Python que contiene el código necesario para el correcto funcionamiento del sistema.
+```
+python3 Main.py
+````
 ### 🛠️ Herramientas utilizadas 🛠️
 *Raspberry
 
