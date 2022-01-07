@@ -1,6 +1,24 @@
 # IOT16
 
-##Descripcion
+## Descripcion
+Nuestra idea de proyecto de Sistema IoT se trata de crear un contenedor de basura de calle
+inteligente, que dé solución a algunos de los problemas más comunes que se pueden
+apreciar en este ámbito.
+
+Nuestra propuesta en cuanto al problema de abrir el contenedor, es mantener el sistema
+tradicional, pero añadir un sistema de lector de tarjetas NFC para que todo aquel que quiera
+o lo necesite, pueda tener esta solución, donde la tapa se abrirá automáticamente al pasar
+la tarjeta. Para solucionar el problema del exceso de capacidad en los contenedores,
+queremos implementar unos sensores, de ultrasonido por ejemplo, los cuales están
+ubicados en la tapa superior del contenedor, apuntando hacia abajo, de esta manera el
+sensor recoge la información de la distancia a la que rebota el ultrasonido, marcando asi
+como lleno cuando la distancia sea mínima.
+Para minimizar el efecto de incendios en contenedores, tenemos pensado instalar dos
+sensores, uno de temperatura y otro de gas, y en caso de superarse los niveles normales
+establecidos de estos factores, daría un aviso a las autoridades.
+De esta manera, estamos seguros de que nuestro sistema es muchísimo más beneficioso
+que el actual para la sociedad, ya que elimina algunos de los problemas que se pueden ver
+hoy en día.
 
 ## 📋 Pre-requisitos 📋
 
