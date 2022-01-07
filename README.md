@@ -40,10 +40,6 @@ Para poder ejecutarlo, entramos a la carpeta que contiene el proyecto mediante l
 ```
 cd IOT16 
 ````
-Instalamos las dependencias necesarias para ejecutar de manera satisfactoria el proyecto.
-```
-pip install -r requirements.txt 
-````
 Y ejecutamos el siguiente comando, que hace referencia al archivo Python que contiene el código necesario para el correcto funcionamiento del sistema.
 ```
 python3 Main.py
