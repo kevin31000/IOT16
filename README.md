@@ -51,9 +51,9 @@ Web de Corlysis: https://corlysis.com/
 Por último, para poder analizar los datos hacemos uso de Grafana. Gracias a esta herramienta podemos analizar los datos obtenidos de los sensores cada muy pocos segundos y registrar la actividad. Además, al hacer uso de gráficas es muy sencillo analizar la información obtenida y crear alertas personalizadas en el momento que los valores en este caso lleguen a estados de peligro: mucho calor por fuego, contenedor lleno...
 
 ### 🛠️ Herramientas utilizadas 🛠️
-*Putty
-*Grafana
-*Corlysis
+* Putty
+* Grafana
+* Corlysis
 
 ### ✒️ Autores ✒️
 
