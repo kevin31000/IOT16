@@ -20,12 +20,12 @@ De esta manera, estamos seguros de que nuestro sistema es muchísimo más benefi
 que el actual para la sociedad, ya que elimina algunos de los problemas que se pueden ver
 hoy en día.
 
-## 📋 Pre-requisitos 📋
-* Python 3
+## 📋 Hardware utilizado 📋
 * Raspberry Pi con Linux
 * Grove - Temperature and Humidity Sensor(DHT11)
 * Grove - Ultrasonic Ranger
-* RFID sensor (mfrc522)
+* Grove - Button
+* Grove - Servo
 
 ## 🚀 Comenzando 🚀
 Para obtener una copia local del proyecto en funcionamiento para propósitos de desarrollo y pruebas 
@@ -40,12 +40,20 @@ Para poder ejecutarlo, entramos a la carpeta que contiene el proyecto mediante l
 ```
 cd IOT16 
 ````
-Y ejecutamos el siguiente comando, que hace referencia al archivo Python que contiene el código necesario para el correcto funcionamiento del sistema.
+Y ejecutamos el siguiente comando, que hace referencia al archivo Python que contiene el código necesario para el correcto funcionamiento del sistema. Es neceario tener instalado python en su versión 3 para su ejecución.
 ```
 python3 Main.py
 ````
+Una vez ejecutado por consola irá apareciendo un log mostrando los distintos datos de los sensores. Además, todos esos datos están siendo enviados a la base de datos creada en Corlysis. Para su vinculación, es necesario que el nombre de la DB, el usuario y la password coincidan con los datos añadidos en el fichero Main.py. En caso de querer recrear el proyecto, se deberá crear una base de datos en Corlysis y copiar los datos en el archivo de python.
+```
+Web de Corlysis: https://corlysis.com/
+````
+Por último, para poder analizar los datos hacemos uso de Grafana. Gracias a esta herramienta podemos analizar los datos obtenidos de los sensores cada muy pocos segundos y registrar la actividad. Además, al hacer uso de gráficas es muy sencillo analizar la información obtenida y crear alertas personalizadas en el momento que los valores en este caso lleguen a estados de peligro: mucho calor por fuego, contenedor lleno...
+
 ### 🛠️ Herramientas utilizadas 🛠️
-*Raspberry
+*Putty
+*Grafana
+*Corlysis
 
 ### ✒️ Autores ✒️
 
