@@ -31,6 +31,11 @@ hoy en día.
 Para obtener una copia local del proyecto en funcionamiento para propósitos de desarrollo y pruebas 
 es necesario descargarse este repositorio e importarlo a un IDE de programación compatible con los requisitos previamente nombrados.
 
+En caso de querer ver la presentación y un video del prototipo, acceder a la siguiente url:
+```
+https://docs.google.com/presentation/d/1IM7abmOL6J3qKKMy9zRbdOyrKys8xs94jNL5S_qJIW0/edit?usp=sharing
+````
+
 ## 🔧 Instalación y ejecución 🔧
 Para clonar el proyecto usaremos el enlace de este repositorio, y usaremos el siguiente comando.
 ```
