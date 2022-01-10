@@ -6,9 +6,9 @@ inteligente, que dé solución a algunos de los problemas más comunes que se pu
 apreciar en este ámbito.
 
 Nuestra propuesta en cuanto al problema de abrir el contenedor, es mantener el sistema
-tradicional, pero añadir un sistema de lector de tarjetas NFC para que todo aquel que quiera
-o lo necesite, pueda tener esta solución, donde la tapa se abrirá automáticamente al pasar
-la tarjeta. Para solucionar el problema del exceso de capacidad en los contenedores,
+tradicional, pero añadir un botón o pulsador, para que todo aquel que quiera
+o lo necesite pueda tener esta solución, donde la tapa se abrirá automáticamente al pulsar dicho botón.
+Para solucionar el problema del exceso de capacidad en los contenedores,
 queremos implementar unos sensores, de ultrasonido por ejemplo, los cuales están
 ubicados en la tapa superior del contenedor, apuntando hacia abajo, de esta manera el
 sensor recoge la información de la distancia a la que rebota el ultrasonido, marcando asi
