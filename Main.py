@@ -15,9 +15,9 @@ from grove.grove_ultrasonic_ranger import GroveUltrasonicRanger
 # Definimos la información de la base de datos
 url = "https://corlysis.com:8086/write"
 # Parametros de la base de datos de corlisys
-db = "Corlysis"
+db = "YOUR_DB_NAME"
 u = "token"
-p = "143306c54e6e03beefc1092a7afa9ed9"
+p = "YOUR_DB_PASSWORD"
 params = {"db": db, "u": u, "p": p}
 
 # SERVOMOTOR + PULSADOR
