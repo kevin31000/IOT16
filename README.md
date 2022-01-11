@@ -60,7 +60,9 @@ Por último, para poder analizar los datos hacemos uso de Grafana. Gracias a est
 * Grafana
 * Corlysis
 
-### :computer: Gestión del proyecto :computer:
+## :computer: Gestión del proyecto :computer:
+
+Para llevar a cabo la comunicación entre los distintos integrantes del proyecto y con el objetivo de la correcta realización de las distintas fases por las que ha pasado el proyecto, se han utilizado herramientas como Discord. De esta manera hemos podido comunicarnos mediante llamadas de voz y vídeo entre los integrantes del proyecto, creando nuevas ideas y tomando las decisiones oportunas durante las sesiones. Así mismo, también se han aprovechado las horas reservadas para esta actividad en el aula de la universidad.
 
 ### ✒️ Autores ✒️
 
