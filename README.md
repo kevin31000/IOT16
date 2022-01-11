@@ -60,6 +60,8 @@ Por último, para poder analizar los datos hacemos uso de Grafana. Gracias a est
 * Grafana
 * Corlysis
 
+### :computer: Gestión del proyecto :computer:
+
 ### ✒️ Autores ✒️
 
 * [Kevin Arnaiz] (https://github.com/kevin31000)
